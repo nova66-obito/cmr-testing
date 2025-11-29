@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Zap, Globe, Phone, Mail, CreditCard, MessageSquare, Edit2 } from 'lucide-react';
 import WhatsAppForm from './integration-form/whatsApp-form';
-import MetaAdsForm from './integration-form/meta-ads-form';
+import MetaAdsForm from './integration-form/fb-ads-form';
 import LinkedInAdsForm from './integration-form/linkedin-ads-form';
 import TwilioForm from './integration-form/twilio-form';
 import PaymentForm from './integration-form/razorpay-form';
