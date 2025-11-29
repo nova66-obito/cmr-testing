@@ -5,7 +5,7 @@ import MetaAdsForm from './integration-form/meta-ads-form';
 import LinkedInAdsForm from './integration-form/linkedin-ads-form';
 import TwilioForm from './integration-form/twilio-form';
 import PaymentForm from './integration-form/razorpay-form';
-import WebsiteWebhooksForm from './integration-form/website-webhooks-form';
+import WebsiteWebhooksForm from './integration-form/web-hooks-form';
 
 // Simple fallback component if forms are missing
 const DefaultForm = ({ integration, onSave, onClose }) => (
